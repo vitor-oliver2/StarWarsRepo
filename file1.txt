@@ -1,1 +1,1 @@
-arquivo de texto na branch master
+Agora todas as branchs estão com o mesmo arquivo *file1
